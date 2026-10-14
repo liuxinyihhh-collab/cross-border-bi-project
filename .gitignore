@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+__pycache__/
+.vscode/
+data/raw/
+data/private/
+exports/
